@@ -1,0 +1,59 @@
+@font-face {
+    font-family: "Gilroy";
+    src: url("fonts/regular/Gilroy-Regular.woff2"),
+    url("fonts/regular/Gilroy-Regular.woff");
+    font-weight: 400;
+    font-display: swap;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Gilroy";
+    src: url("fonts/medium/Gilroy-Medium.woff2"),
+    url("fonts/medium/Gilroy-Medium.woff");
+    font-weight: 500;
+    font-display: swap;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Gilroy";
+    src: url("fonts/light/Gilroy-Light.woff2"),
+    url("fonts/light/Gilroy-Light.woff");
+    font-weight: 300;
+    font-display: swap;
+    font-style: normal;
+}
+body {
+    
+    font-family: "Gilroy", sans-serif;
+    font-weight: 400;
+}
+.orange {
+    color: orange;
+}
+.welcome{
+color: white;
+background: #FF7129;
+}
+.head {
+    background: #20242D;
+}
+.dabrowka{
+    color:#FFFFFF;
+}
+.mailto{
+    color: white;
+}
+.telephone{
+    color: white;
+}
+.navigation{
+    background-color:white;
+}
+.foot{
+    background: #20242D;
+}
+.leg{
+    border: 1px solid #FF7129;
+box-sizing: border-box;
+
+}
